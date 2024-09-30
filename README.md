@@ -1,1 +1,1 @@
-"# pinus-tech-backend-template" 
+# pinus-tech-backend-template
